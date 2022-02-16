@@ -1,6 +1,6 @@
 # MLModel Regressor
 
-A machine learning model is used to estimate the risk a Covid-19 patient is in of dying, based on factors such as age, gender, pre-existing comorbidities, etc.
+A machine learning model is used to estimate the risk a Covid-19 patient is in, of dying, based on factors such as age, gender, pre-existing comorbidities, etc.
 
 Click **[here](https://github.com/dhruva-shashi/covid-project/blob/master/MLModel-regressor.sav?raw=true)** to download the machine learning model.
 
