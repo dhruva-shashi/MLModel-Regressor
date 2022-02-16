@@ -2,7 +2,7 @@
 
 A machine learning model is used to estimate the risk a Covid-19 patient is in, of dying, based on factors such as age, gender, pre-existing comorbidities, etc.
 
-Click **[here](https://github.com/dhruva-shashi/covid-project/blob/master/MLModel-regressor.sav?raw=true)** to download the machine learning model.
+Click **[here](https://github.com/dhruva-shashi/MLModel-Regressor/blob/master/MLModel-regressor.sav?raw=true)** to download the machine learning model.
 
 Click **[here](https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset?select=covid.csv)** to view the Kaggle dataset.
 
